@@ -1,5 +1,5 @@
 {
-    "name": "adambranscum/WyrmForms",
+    "name": "adambranscum/wyrm-forms",
     "description": "A powerful Laravel package for creating dynamic forms with unique URLs, email notifications, and analytics",
     "type": "library",
     "license": "MIT",
