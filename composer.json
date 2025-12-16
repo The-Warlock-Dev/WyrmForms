@@ -3,6 +3,7 @@
     "description": "A powerful Laravel package for creating dynamic forms with unique URLs, email notifications, and analytics",
     "type": "library",
     "license": "MIT",
+    "Version": 1.001,
     "keywords": [
         "laravel",
         "form",
