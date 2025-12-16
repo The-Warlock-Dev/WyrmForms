@@ -1,9 +1,9 @@
 {
     "name": "adambranscum/wyrm-forms",
     "description": "A powerful Laravel package for creating dynamic forms with unique URLs, email notifications, and analytics",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
-    "Version": 1.001,
     "keywords": [
         "laravel",
         "form",
@@ -29,18 +29,18 @@
     },
     "autoload": {
         "psr-4": {
-            "YourUsername\\FormBuilder\\": "src/"
+            "adambranscum\\WyrmForms\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "YourUsername\\FormBuilder\\Tests\\": "tests/"
+            "adambranscum\\WyrmForms\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "adambranscum\\FormBuilder\\FormBuilderServiceProvider"
+                "adambranscum\\WyrmForms\\FormBuilderServiceProvider"
             ]
         }
     },
